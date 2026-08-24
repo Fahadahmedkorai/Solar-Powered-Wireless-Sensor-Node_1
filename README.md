@@ -137,14 +137,7 @@ The final panel will be selected based on **energy harvested per day, mass, illu
 * Further PCB weight reduction
 * Localization and BLE 6.0 Channel Sounding experiments using compatible future hardware
 
-## Research Focus
 
-The main research question is:
 
-> **How lightweight can a battery-free passive-flier sensing platform become while maintaining long-term autonomous operation under realistic environmental conditions?**
 
-## Author
-
-**Fahad Ahmed Korai**
-Doctoral Researcher
-Tampere University, Finland
+**Fahad Ahmed Korai** — Doctoral Researcher, Tampere University, Finland
