@@ -102,9 +102,9 @@ Several lightweight PowerFilm solar modules are being evaluated:
 
 | Panel        | Approx. Weight | Role                    |
 | ------------ | -------------: | ----------------------- |
-| ONP1.2-37×54 |        0.496 g | Minimum-mass candidate  |
+| ONP1.2-37×54 |        0.496 g | Minimum-mass   
 | SP3-37       |         0.69 g | Compact reference       |
-| MP3-25       |         0.73 g | Main balanced candidate |
+| MP3-25       |         0.73 g | Main balanced  
 | MP3-37       |        ~1.04 g | Higher-power reference  |
 
 The final panel will be selected based on **energy harvested per day, mass, illumination conditions, and long-term energy neutrality**.
